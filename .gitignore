@@ -1,0 +1,51 @@
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── PitchAnalyser output directories ─────────────────────────────────────────
+pitch_results/
+frames/
+pages/
+
+# ── Streamlit ─────────────────────────────────────────────────────────────────
+.streamlit/
+
+# ── Test / sample pitch files (can be large) ─────────────────────────────────
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# ── Windows ───────────────────────────────────────────────────────────────────
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ── IDEs ──────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo

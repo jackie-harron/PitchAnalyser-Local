@@ -1,0 +1,24 @@
+# PitchAnalyser Local — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Web UI
+streamlit>=1.32.0
+
+# Faster file-watching for Streamlit (optional but recommended)
+# macOS users: run `xcode-select --install` first if this fails
+watchdog>=4.0.0
+
+# PDF page extraction
+pymupdf>=1.24.0
+
+# PPTX text/image extraction (fallback if LibreOffice not available)
+python-pptx>=1.0.0
+
+# Image rendering for PPTX fallback
+Pillow>=10.0.0
+
+# HTTP requests to Ollama local API
+requests>=2.31.0
+
+# Pin urllib3 to v1.x — urllib3 v2 warns on macOS (LibreSSL vs OpenSSL)
+urllib3<2

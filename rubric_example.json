@@ -1,0 +1,58 @@
+{
+    "problem_and_solution": {
+        "description": "Is the problem urgent and clearly defined? Is the solution directly addressing it in a way that is easy to understand from the deck alone?",
+        "weight": 2.0
+    },
+    "value_proposition": {
+        "description": "Does the deck clearly explain why this is better than competitors? Is the unique selling point (USP) compelling and well-articulated?",
+        "weight": 2.0
+    },
+    "originality": {
+        "description": "Is the idea innovative and not just a direct copy of existing solutions? Does it bring a fresh approach to the problem?",
+        "weight": 2.0
+    },
+    "target_market": {
+        "description": "Is the TAM/SAM/SOM clearly defined with credible sizing? Is the target customer segment specific and well-understood?",
+        "weight": 2.0
+    },
+    "market_validation": {
+        "description": "Is there proof of market interest such as prototypes, traction, letters of intent, or user feedback? Is demand evidenced rather than assumed?",
+        "weight": 2.0
+    },
+    "business_model": {
+        "description": "Is it clear how the company makes money? Are revenue streams logical and sustainable?",
+        "weight": 1.0
+    },
+    "team_strength": {
+        "description": "Does the team possess the necessary skills and experience to execute? Are relevant backgrounds and roles clearly presented?",
+        "weight": 2.0
+    },
+    "milestones_and_ask": {
+        "description": "Is there a clear, realistic plan for growth? Is the funding ask specific with a defined use of funds and measurable milestones?",
+        "weight": 2.0
+    },
+    "slide_clarity": {
+        "description": "Are the slides uncluttered with one key idea per slide? Does each headline deliver the key takeaway without needing a presenter to explain it?",
+        "weight": 1.0
+    },
+    "visual_quality": {
+        "description": "Are graphs, charts, and images high-quality and easy to read? Is the deck visually professional and free of messy design?",
+        "weight": 1.0
+    },
+    "branding_consistency": {
+        "description": "Are fonts, colours, and branding consistent and professional throughout the deck?",
+        "weight": 1.0
+    },
+    "social_environmental_impact": {
+        "description": "Does the pitch address a meaningful social or environmental issue? Is the broader impact clearly articulated?",
+        "weight": 1.0
+    },
+    "financial_model": {
+        "description": "Are the financial projections realistic and clearly supported by assumptions? Are key metrics such as CAC, LTV, and burn rate addressed?",
+        "weight": 1.0
+    },
+    "standalone_narrative": {
+        "description": "Does the deck tell a coherent story on its own without a presenter? Is the flow logical and self-explanatory from first slide to last?",
+        "weight": 1.0
+    }
+}
