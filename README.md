@@ -17,6 +17,19 @@ Upload pitch videos (`.mp4`, `.mov`) and/or slide decks (`.pdf`, `.pptx`) and ge
 
 ---
 
+## 📸 Screenshots
+
+**Upload & Analyse** — drag-and-drop pitch files and run the AI analysis
+![Upload & Analyse tab](docs/screenshots/01_upload.png)
+
+**Rubric Editor** — customise scoring criteria and weights for your event
+![Rubric Editor tab](docs/screenshots/02_rubric_editor.png)
+
+**Results** — ranked leaderboard with detailed per-pitch breakdowns
+![Results tab](docs/screenshots/03_results.png)
+
+---
+
 ## 📋 What you'll need (one-time install)
 
 | Requirement | What it's for | Download |
